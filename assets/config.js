@@ -5,13 +5,14 @@ const config = {
      * This can either be a file link (relative or external)
      * or a Gravatar email or hash.
      */
-    PICTURE: "assets/img/profile_picture.png",
+    PICTURE: "assets/img/Profile_picture.PNG",
 
     DESCRIPTION: "Change this bio in the <b>assets/config.js</b> file. <i>It may include HTML syntax</i>",
 
     BADGES: [
         { id: "HypeSquad Bravery", image: "assets/img/hypesquad_bravery.svg" },
         { id: "Nitro Sub", image: "assets/img/nitro_sub.svg" },
+        { id: "Active Dev", image: "assets/img/active_dev.svg" },
     ],
 
     PROJECTS: [
